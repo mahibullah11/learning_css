@@ -1,0 +1,20 @@
+/* LAST RULE */
+/* p{
+    color: red;
+}
+p{
+    color: aqua;
+}
+p{
+    color: fuchsia; 
+}*/
+/* SPECIFICITY */
+/* *{
+    color:red !important;
+}
+p{
+    color: green);
+}
+p#note{
+    color: blue;
+} */
