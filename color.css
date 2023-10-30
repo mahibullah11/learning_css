@@ -17,4 +17,22 @@ p{
 }
 p#note{
     color: blue;
+} */   
+/* INHERTANCE */
+/* div{
+    color: darkmagenta;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    color: inherit;
 } */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #f5101c;
+    padding: 10px;
+    border: 2px solid;
+} 
+    .note {
+    border: 2px solid #26f513;
+    background-color: #f0dde9; 
+    padding: inherit;} 
